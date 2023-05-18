@@ -14,8 +14,8 @@
 
 # What is this? #
 
-Repository for XNET related crypto token metadata. To amend files contained within this repository, please contact Team XNET members.
+Repository for XNET related crypto token metadata. To amend files contained within this repository, please contact XNET members.
 
 # License #
 
-This repository and all the code included in this repository (Unless otherwise specified) is licensed under the [MIT License](/LICENSE). Copyright (c) 2023, Team XNET.
+This repository and all the code included in this repository (Unless otherwise specified) is licensed under the [MIT License](/LICENSE). Copyright (c) 2023, XNET.

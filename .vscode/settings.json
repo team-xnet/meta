@@ -11,8 +11,5 @@
   },
   "editor.detectIndentation": false,
   "editor.inlayHints.enabled": "off",
-  "files.insertFinalNewline": true,
-  "yaml.schemas": {
-    "https://json.schemastore.org/github-workflow.json": "file:///f%3A/Workspace/meta/.github/workflows/deploy.yml"
-  }
+  "files.insertFinalNewline": true
 }

@@ -4,17 +4,13 @@
 
 <p align='center'>
 	<samp> XNET token metadata. </samp>
-	<br>
-	<br>
-	<img src='https://github.com/TeamXNET/meta/actions/workflows/deploy.yml/badge.svg' alt='Deploy Status'/>
-	<br>
 </p>
 
 > Issues and pull requests are disabled in this repo, as it only hosts the token metadata.
 
 # What is this? #
 
-Repository for XNET related crypto token metadata. To amend files contained within this repository, please contact XNET members.
+Repository for XNET related crypto token metadata. To amend files contained within this repository please contact XNET members, preferably on our [Twitter](https://twitter.com/xSpunksXRPL).
 
 # License #
 
